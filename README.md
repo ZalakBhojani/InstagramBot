@@ -9,8 +9,11 @@
 </div>
 
 <p>
-  This script automates the process of uploading photos to instagram while working on a laptop or pc. The script can be run on any machine with chrome installed.
-  
+  This script automates the process of uploading photos to instagram while working on a laptop or pc. The script can be run on any machine with chrome installed. Just create a folder named InstaBot in "Pictures" directory of the device and add all the photos to be uploaded.
+
+<p>
+This script does not allow the user to add 10 pictures in one post. The script will be updated for it later.
+
  <h1>Requirements</h1>
  
 * pip
@@ -18,7 +21,8 @@
 * selenium webdriver for chrome
 * Enabling Google Nexus 5 in Setting -> More tools -> Developer tools -> Toogle device toolbar -> Resposive -> Edit -> Enable Nexus 5 (scipt would require a mobile device mode enable)
 
-
-
+<p>
+<p>
+  Do try it out  :-)
 
 
